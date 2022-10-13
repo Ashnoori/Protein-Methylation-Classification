@@ -1,2 +1,2 @@
-# SYSC-5405
+# SYSC-5405 - Pattern Classification and Experiment Design
 Pattern Classification and Experiment Design - Classification of Protein Methylation Using Probabilistic Neural Networks
